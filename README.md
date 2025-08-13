@@ -1,4 +1,4 @@
-<h1 align="center">I'm F.Efe Sevik</h1>
+<h1 align="center">I'm F. Efe Sevik</h1>
 <h3 align="center">I am a Computer Engineering student at Mudanya University, focusing on application and game development with C# and Java.</h3>
 
 - 🔭 I’m currently working on **game development with unity**
